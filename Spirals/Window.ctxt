@@ -1,0 +1,10 @@
+#BlueJ class context
+comment0.target=Window
+comment0.text=\n\ Creates\ the\ window\ in\ which\ the\ JPanel\ can\ do\ all\ the\ drawings\n
+comment1.params=
+comment1.target=Window()
+comment1.text=\n\ Constructor\ sets\ up\ the\ window\ and\ puts\ the\ JPanel\ (Drawing)\ into\ it\n
+comment2.params=e
+comment2.target=void\ actionPerformed(java.awt.event.ActionEvent)
+comment2.text=\n\ When\ the\ Timer\ fires,\ this\ is\ called\ and\ repaints\ everything\ -\ all\ ines\n
+numComments=3

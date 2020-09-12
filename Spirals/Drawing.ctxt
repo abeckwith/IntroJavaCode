@@ -1,0 +1,10 @@
+#BlueJ class context
+comment0.target=Drawing
+comment0.text=\n\ JPanel\ can\ be\ used\ as\ a\ canvas\ to\ draw\ on\n
+comment1.params=
+comment1.target=Drawing()
+comment1.text=\ \n\ Constructor\ -\ called\ by\ the\ code\ "new\ Drawing(w,\ h)"\n
+comment2.params=g
+comment2.target=void\ paintComponent(java.awt.Graphics)
+comment2.text=\n\ called\ by\ repaint()\ \n
+numComments=3
