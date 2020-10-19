@@ -27,6 +27,15 @@ public class JOptionTest
         //icon type: ”WARNING” = ! symbol, “ERROR” = X symbol, “PLAIN” = no symbol 
         //“INFORMATION” = i
 
+        directions = "Wha?  You can do images???";
+        title      = "Yes, you can do images!";
+        ImageIcon sun = new ImageIcon("sunset.png");  /**MAKE ICON OBJECT*/
+   
+        JOptionPane.showMessageDialog(null,
+            directions,    //text that appears in the window
+            title,		   //text that appears in the title bar
+            JOptionPane.PLAIN_MESSAGE,
+            sun);  
         /*
          *  2. MULTIPLE BUTTONS
          */
