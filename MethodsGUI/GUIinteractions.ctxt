@@ -1,0 +1,8 @@
+#BlueJ class context
+comment0.target=GUIinteractions
+comment0.text=\n\ \n\n\ @author\ (your\ name)\n\ @version\ (a\ version\ number\ or\ a\ date)\n
+comment1.params=selectedTask\ report\ entry
+comment1.target=void\ showIntructions(int,\ javax.swing.JTextArea,\ javax.swing.JTextField[])
+comment2.params=tasks\ selectedTask\ report\ entry
+comment2.target=void\ getAndShowResults(Tasks,\ int,\ javax.swing.JTextArea,\ javax.swing.JTextField[])
+numComments=3

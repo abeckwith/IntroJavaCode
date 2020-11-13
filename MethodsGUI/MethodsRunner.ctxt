@@ -1,0 +1,6 @@
+#BlueJ class context
+comment0.target=MethodsRunner
+comment0.text=\n\ Creates\ the\ GUI\ for\ text\ analysis\n\ \n\ When\ the\ GUI\ constructor\ is\ called,\ it\ will\ create\ and\ display\ the\ JFrame\ \n\ with\ JPanels\ in\ it,\ allowing\ for\ user\ input\ and\ actions\ like\ button\ clicking\n\ \n\ @author\ A.Beckwith\n\ @version\ 2.0\n
+comment1.params=args
+comment1.target=void\ main(java.lang.String[])
+numComments=2

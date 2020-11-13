@@ -1,0 +1,11 @@
+#BlueJ class context
+comment0.target=Tasks
+comment1.params=word1\ word2
+comment1.target=java.lang.String\ combine(java.lang.String,\ java.lang.String)
+comment1.text=\n\ VERY\ SILLY\ METHOD\ FOR\ TESTING\ PURPOSES\:\ adds\ 2\ words\ to\ make\ one\n\ @param\ word1\ the\ first\ word\n\ @param\ word2\ the\ second\ word\n\ @return\ the\ two\ words\ reversed\ and\ concatenated\n
+comment2.params=test1\ age\ favNum
+comment2.target=boolean\ testing(boolean,\ int,\ int)
+comment2.text=\n\ EQUALLY\ SILLY\ METHOD\ FOR\ TESTING\ PURPOSES\:\n\ @param\ test1\ meangingless\ boolean\n\ @param\ age\ age\ of\ the\ user\ in\ years\n\ @param\ favNum\ favorite\ number\ of\ the\ user\n\ @return\ true\ is\ passes\ my\ silly\ test;\ false\ otherwise\n
+comment3.params=a\ b\ c\ d\ e
+comment3.target=boolean\ fourFitInOne(int,\ int,\ int,\ int,\ int)
+numComments=4
