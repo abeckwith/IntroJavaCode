@@ -1,0 +1,14 @@
+#BlueJ class context
+comment0.target=Rabbit
+comment0.text=\n\ Rabbit\n\ \n\ @author\ Beckwith\n\ @version\ 0.1\n
+comment1.params=xLoc\ yLoc\ color\ squareSize
+comment1.target=Rabbit(int,\ int,\ java.awt.Color,\ int)
+comment1.text=\n\ Constructor\ for\ Graphics\ display\n
+comment2.params=moveCode
+comment2.target=void\ move(int)
+comment2.text=\n\ Moves\ the\ Rabbit\ in\ any\ of\ 8\ directions\n\ @param\ moveCode\ 0-7\ code,\ starts\ with\ 0\ \=\ Right\ and\ goes\ counter-clockwise\n
+comment3.params=g
+comment3.target=void\ draw(java.awt.Graphics)
+comment4.params=numSquaresAcross
+comment4.target=void\ checkForRecenter(int)
+numComments=5

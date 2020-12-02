@@ -1,0 +1,16 @@
+#BlueJ class context
+comment0.target=GraphicsWindow
+comment0.text=\n\ Provides\ a\ window\ for\ buttons,\ entry\ boxes\ and\ displaying\ of\ grahpics\n\ 1.\ Sets\ up\ all\ imporant\ control\ variable\ values,\n\ 2.\ makes\ a\ Window\ for\ buttons\ and\ graphics\ and\ timer\ control\n\ 3.\ and\ makes\ a\ Display\ to\ show\ graphics\n\ 4.\ starts\ the\ timer\ to\ start\ animation\n\ \n\ @author\ Beckwith\ &\ (your\ name\ here)\n\ @version\ 1.2.0\n
+comment1.params=
+comment1.target=GraphicsWindow()
+comment1.text=\n\ Constructor\ for\ Window\n
+comment2.params=
+comment2.target=void\ startTimer()
+comment2.text=\n\ Creates\ a\ Timer\ object\ and\ starts\ timer\n
+comment3.params=e
+comment3.target=void\ actionPerformed(java.awt.event.ActionEvent)
+comment3.text=\n\ Called\ automatically\ when\ a\ button\ is\ pressed\n\ @param\ e\ contains\ information\ about\ button\ that\ was\ pressed/sent\ automatically\n
+comment4.params=
+comment4.target=void\ updateAll()
+comment4.text=\n\ Called\ by\ the\ timer.\ You'll\ do\ all\ altering\ of\ bunnies\ here\ -\ \n\ this\ is\ followed\ by\ a\ repaint\ of\ everything\n
+numComments=5

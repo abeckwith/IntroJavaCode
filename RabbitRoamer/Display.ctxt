@@ -1,0 +1,10 @@
+#BlueJ class context
+comment0.target=Display
+comment0.text=\n\ \n\ @author\ Beckwith\ &\ (your\ name\ here)\n\ @version\ 1.2.0\n
+comment1.params=bunny\ w\ h\ numSquaresAcross
+comment1.target=Display(Rabbit,\ int,\ int,\ int)
+comment1.text=\n\ CONSTRUCTOR\ saves\ bunny\ and\ number\ of\ squares\ and\ sets\ font\ and\ size\ of\ display\n
+comment2.params=g
+comment2.target=void\ paintComponent(java.awt.Graphics)
+comment2.text=\n\ Draw\ text,\ grid,\ and\ rabbit;\ called\ in\ Window\ class\ by\ a\ timer\ calling\ repaint()\n\ @param\ g\ the\ graphics\ object,\ automatically\ sent\ when\ repaint()\ is\ called\n
+numComments=3
